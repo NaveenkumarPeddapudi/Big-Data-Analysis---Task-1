@@ -1,0 +1,501 @@
+OrderID,Date,Customer,Product,Quantity,UnitPrice
+ORD0001,2024-03-22,Lindsay Brown,Bose QuietComfort Earbuds,2,303.3
+ORD0002,2023-03-12,Kristina Williams,Logitech MX Master 3 Mouse,1,1424.29
+ORD0003,2023-02-17,Alexander Baker,HP Envy Printer,3,699.27
+ORD0004,2023-06-03,Andrew Bennett,Anker PowerCore Portable Charger,2,514.65
+ORD0005,2023-06-29,Travis Short,Samsung Galaxy S23,3,426.21
+ORD0006,2023-04-29,William Bell,Logitech MX Master 3 Mouse,3,437.66
+ORD0007,2024-01-20,Samantha Russo,Apple iPhone 14,5,514.95
+ORD0008,2023-04-01,Patricia Guerra,Fitbit Charge 5,2,1970.61
+ORD0009,2023-09-13,Andrea Phillips,Fitbit Charge 5,2,702.9
+ORD0010,2023-02-04,Patrick Foley,Anker PowerCore Portable Charger,5,1858.67
+ORD0011,2023-07-16,John Sanders,Samsung Galaxy S23,5,1824.66
+ORD0012,2023-04-05,Nicholas Bridges,Ring Video Doorbell Pro,3,1307.64
+ORD0013,2024-05-12,Katherine Watts,Samsung Galaxy S23,1,1115.81
+ORD0014,2024-04-23,Jared Wheeler,Bose QuietComfort Earbuds,2,736.83
+ORD0015,2023-01-18,Joseph Castillo,Fitbit Charge 5,5,519.21
+ORD0016,2023-09-11,Mr. John Flowers,Bose QuietComfort Earbuds,4,152.8
+ORD0017,2023-03-20,Victoria Lewis,Fitbit Charge 5,4,489.11
+ORD0018,2023-12-17,Julie Williams,Apple iPhone 14,4,1668.69
+ORD0019,2023-12-21,Richard Cruz,Ring Video Doorbell Pro,4,1069.2
+ORD0020,2024-01-20,Mrs. Christina Lee,Anker PowerCore Portable Charger,5,921.72
+ORD0021,2023-03-14,Victoria Herrera,Fitbit Charge 5,5,454.0
+ORD0022,2023-06-10,Reginald Douglas,Fitbit Charge 5,1,423.56
+ORD0023,2023-07-24,Dylan Harmon,Apple iPhone 14,3,169.36
+ORD0024,2023-12-14,Katherine Schultz,Ring Video Doorbell Pro,1,1969.67
+ORD0025,2024-05-30,Christopher Dorsey,Logitech MX Master 3 Mouse,3,1757.27
+ORD0026,2024-03-25,Kimberly Howell,Samsung Galaxy S23,3,183.79
+ORD0027,2024-01-04,Sean Campos,Fitbit Charge 5,5,124.98
+ORD0028,2023-10-12,Melissa Daniel,Asus ROG Strix Gaming Laptop,3,124.57
+ORD0029,2024-06-18,Leon Bowen,Logitech MX Master 3 Mouse,1,1617.59
+ORD0030,2023-10-18,William Walker,Asus ROG Strix Gaming Laptop,5,1571.01
+ORD0031,2024-03-28,Amanda Johnson,Sony WH-1000XM4 Headphones,5,1731.44
+ORD0032,2024-04-19,Julian Monroe,Anker PowerCore Portable Charger,1,774.46
+ORD0033,2024-06-15,Michael Reynolds,Logitech MX Master 3 Mouse,4,1263.55
+ORD0034,2024-06-14,Daniel Ramos,Ring Video Doorbell Pro,1,1032.71
+ORD0035,2024-02-09,Timothy Thompson,Ring Video Doorbell Pro,2,732.53
+ORD0036,2023-08-09,David Cole,Apple iPhone 14,1,1803.03
+ORD0037,2023-10-06,Frank Smith,Bose QuietComfort Earbuds,2,462.98
+ORD0038,2023-07-15,Dennis Riggs,Fitbit Charge 5,2,468.0
+ORD0039,2024-03-16,Michael Martin,Samsung Galaxy S23,5,1387.49
+ORD0040,2024-03-07,Kevin Barnes,Fitbit Charge 5,4,888.3
+ORD0041,2023-04-25,Jim Charles,Fitbit Charge 5,3,1351.77
+ORD0042,2024-01-16,Cameron Hatfield,Asus ROG Strix Gaming Laptop,4,901.37
+ORD0043,2024-04-12,Mackenzie Jones,Anker PowerCore Portable Charger,4,757.86
+ORD0044,2024-05-18,Heather Padilla,Bose QuietComfort Earbuds,2,944.44
+ORD0045,2023-08-14,Joel Cordova,Bose QuietComfort Earbuds,3,56.45
+ORD0046,2023-04-29,Jasmine Johnson,HP Envy Printer,5,498.92
+ORD0047,2023-04-21,Anthony Wright,Ring Video Doorbell Pro,3,1964.91
+ORD0048,2023-12-22,Brandi Roberts,Apple iPhone 14,4,1976.16
+ORD0049,2024-04-10,Mr. Brett Brown II,Ring Video Doorbell Pro,4,1624.44
+ORD0050,2024-04-26,Douglas Greene,Ring Video Doorbell Pro,5,1332.05
+ORD0051,2023-10-03,Stacy Harrison,Bose QuietComfort Earbuds,3,1978.3
+ORD0052,2023-05-28,Anita Joseph,Sony WH-1000XM4 Headphones,3,946.3
+ORD0053,2023-06-18,James Moore,Fitbit Charge 5,3,1242.86
+ORD0054,2023-08-23,Gina Garcia,Bose QuietComfort Earbuds,1,1056.15
+ORD0055,2024-03-01,Ashley Bender,Ring Video Doorbell Pro,2,220.34
+ORD0056,2024-03-06,Harry Walters,Bose QuietComfort Earbuds,2,899.12
+ORD0057,2023-05-15,Miss Valerie Riley,Sony WH-1000XM4 Headphones,4,1546.7
+ORD0058,2023-07-17,Desiree Brennan,Samsung Galaxy S23,1,583.37
+ORD0059,2023-02-26,Roberto Church,Logitech MX Master 3 Mouse,3,1691.89
+ORD0060,2024-01-19,Heather Wilson,Fitbit Charge 5,1,781.62
+ORD0061,2023-10-20,Edwin Beltran,Bose QuietComfort Earbuds,5,981.7
+ORD0062,2023-09-07,Matthew Dunn,Bose QuietComfort Earbuds,3,460.92
+ORD0063,2024-03-03,Amanda Mcpherson,Apple iPhone 14,2,1303.87
+ORD0064,2023-02-13,Dwayne Moon,Sony WH-1000XM4 Headphones,5,1038.31
+ORD0065,2023-03-16,Michele Gutierrez,Logitech MX Master 3 Mouse,3,81.13
+ORD0066,2024-01-24,Raymond Norton,Anker PowerCore Portable Charger,1,1960.03
+ORD0067,2023-04-18,Jacob Fuller,Anker PowerCore Portable Charger,2,567.82
+ORD0068,2024-03-18,Todd Morgan,Sony WH-1000XM4 Headphones,4,400.16
+ORD0069,2023-02-08,Jessica White,Samsung Galaxy S23,3,514.4
+ORD0070,2023-07-03,Brent Walker,Fitbit Charge 5,3,1666.49
+ORD0071,2023-02-21,Katie Garcia,Asus ROG Strix Gaming Laptop,1,729.65
+ORD0072,2024-01-19,Ronald Flores,Asus ROG Strix Gaming Laptop,4,198.63
+ORD0073,2023-04-18,Margaret Meadows,Bose QuietComfort Earbuds,1,869.8
+ORD0074,2023-09-20,Heather Jones,Anker PowerCore Portable Charger,5,843.62
+ORD0075,2023-07-28,Nancy Bonilla,Fitbit Charge 5,1,570.81
+ORD0076,2023-08-06,Matthew Morgan,Bose QuietComfort Earbuds,1,170.86
+ORD0077,2023-04-08,Thomas Ramirez,Anker PowerCore Portable Charger,5,1802.82
+ORD0078,2023-11-24,Carol Salinas,Fitbit Charge 5,3,553.81
+ORD0079,2023-05-23,Bryan Bailey,Anker PowerCore Portable Charger,2,1838.65
+ORD0080,2024-06-05,Debbie Barnett,Apple iPhone 14,1,1758.6
+ORD0081,2024-01-07,Jean Morrison,Samsung Galaxy S23,5,492.65
+ORD0082,2023-01-31,James Barnes,Asus ROG Strix Gaming Laptop,3,1058.01
+ORD0083,2023-01-28,Amber Diaz,Anker PowerCore Portable Charger,1,824.25
+ORD0084,2023-12-01,Mrs. Ashley Zamora,Apple iPhone 14,5,650.0
+ORD0085,2023-09-06,Matthew Mueller,Samsung Galaxy S23,4,83.47
+ORD0086,2023-01-21,Derrick Young,HP Envy Printer,1,1068.91
+ORD0087,2023-11-16,Joel Gray,Fitbit Charge 5,4,89.67
+ORD0088,2024-03-13,Amanda Byrd,Sony WH-1000XM4 Headphones,2,1634.58
+ORD0089,2023-09-18,Elizabeth Wood,Asus ROG Strix Gaming Laptop,4,208.16
+ORD0090,2023-08-20,John Cox,Anker PowerCore Portable Charger,1,983.41
+ORD0091,2023-09-09,Patrick Conner,Asus ROG Strix Gaming Laptop,2,521.88
+ORD0092,2023-05-24,Adam Barnes,Fitbit Charge 5,4,910.33
+ORD0093,2023-09-16,Anna Ochoa,Fitbit Charge 5,1,1211.35
+ORD0094,2024-03-16,Justin Williams,Bose QuietComfort Earbuds,4,168.69
+ORD0095,2023-02-06,Kim Lee,Ring Video Doorbell Pro,1,1336.52
+ORD0096,2024-04-13,Cheryl Reed,Logitech MX Master 3 Mouse,3,1205.03
+ORD0097,2024-01-21,Samantha Padilla,Apple iPhone 14,3,322.75
+ORD0098,2023-03-22,Anna Hickman,Apple iPhone 14,1,1871.85
+ORD0099,2023-12-17,Christopher Gibbs,Samsung Galaxy S23,4,955.84
+ORD0100,2023-04-30,Carl Solis,Fitbit Charge 5,1,1804.04
+ORD0101,2023-08-14,Johnathan Thompson,Apple iPhone 14,4,1075.33
+ORD0102,2024-01-07,Laurie Williams,Anker PowerCore Portable Charger,3,193.12
+ORD0103,2024-02-12,Sara Porter,Anker PowerCore Portable Charger,4,86.57
+ORD0104,2024-01-26,David Harrison,Samsung Galaxy S23,3,361.64
+ORD0105,2023-10-17,Dorothy Martin,Samsung Galaxy S23,2,1994.39
+ORD0106,2023-06-12,Jacqueline Hudson,Apple iPhone 14,1,941.59
+ORD0107,2024-02-04,Kristen Wright,Anker PowerCore Portable Charger,5,101.56
+ORD0108,2024-05-21,Noah Lyons,Anker PowerCore Portable Charger,2,1655.27
+ORD0109,2023-12-30,Michael Sanders,Ring Video Doorbell Pro,1,1516.12
+ORD0110,2023-12-15,Jenna Barrera,Logitech MX Master 3 Mouse,4,979.73
+ORD0111,2023-12-12,Andrew Tanner,Sony WH-1000XM4 Headphones,3,204.36
+ORD0112,2023-04-27,Melissa Sims,Ring Video Doorbell Pro,3,1691.91
+ORD0113,2023-06-03,Barbara Moreno,Ring Video Doorbell Pro,5,1744.09
+ORD0114,2023-09-13,Samantha Scott,Bose QuietComfort Earbuds,3,703.71
+ORD0115,2023-07-24,Richard Shepherd,HP Envy Printer,5,716.57
+ORD0116,2023-09-26,Kerri Davis,Samsung Galaxy S23,1,396.07
+ORD0117,2023-10-27,Martin Schmidt,Logitech MX Master 3 Mouse,1,1623.46
+ORD0118,2023-12-30,John Simmons,Ring Video Doorbell Pro,1,1893.46
+ORD0119,2023-10-17,Andrew Stone,Anker PowerCore Portable Charger,3,691.3
+ORD0120,2023-08-29,Jacob Cabrera,Anker PowerCore Portable Charger,1,74.54
+ORD0121,2023-11-01,James Moreno,Sony WH-1000XM4 Headphones,5,1388.33
+ORD0122,2024-01-21,Angel Wright,Fitbit Charge 5,4,1031.03
+ORD0123,2024-05-16,Paula Smith,Sony WH-1000XM4 Headphones,3,1790.33
+ORD0124,2024-01-24,Cole Sanders,HP Envy Printer,2,1838.64
+ORD0125,2023-10-08,Gordon Coleman,Ring Video Doorbell Pro,3,968.22
+ORD0126,2023-01-20,Austin Robinson,Anker PowerCore Portable Charger,3,114.84
+ORD0127,2023-02-17,Beth Mcneil,Anker PowerCore Portable Charger,4,1139.83
+ORD0128,2023-05-03,Jordan Mason,Asus ROG Strix Gaming Laptop,2,1835.04
+ORD0129,2023-01-05,Susan Mejia,Fitbit Charge 5,3,456.99
+ORD0130,2023-05-27,Stephanie Scott,Samsung Galaxy S23,2,1916.63
+ORD0131,2024-02-28,Matthew Gray,Sony WH-1000XM4 Headphones,3,314.14
+ORD0132,2024-03-15,Christina Burns,HP Envy Printer,2,1063.15
+ORD0133,2024-01-14,Charles Bennett,Apple iPhone 14,3,1741.14
+ORD0134,2024-05-24,Maria Wilson,Asus ROG Strix Gaming Laptop,1,553.99
+ORD0135,2023-04-30,Susan Barnett,Logitech MX Master 3 Mouse,2,433.4
+ORD0136,2023-07-20,Erik Humphrey,HP Envy Printer,4,456.51
+ORD0137,2023-08-14,Catherine Gomez,Logitech MX Master 3 Mouse,4,465.84
+ORD0138,2024-04-06,Henry Brown,HP Envy Printer,3,1512.67
+ORD0139,2023-01-08,Austin Jensen,Sony WH-1000XM4 Headphones,4,251.39
+ORD0140,2023-02-13,Dawn Franklin MD,Logitech MX Master 3 Mouse,1,1334.92
+ORD0141,2023-09-26,Laurie Douglas,Ring Video Doorbell Pro,3,408.3
+ORD0142,2023-10-04,James Johnson,HP Envy Printer,1,1974.99
+ORD0143,2023-12-15,Nicholas Sanchez,Bose QuietComfort Earbuds,1,870.74
+ORD0144,2023-01-14,Michelle Wilson,HP Envy Printer,3,432.8
+ORD0145,2024-06-05,William Fuentes,Apple iPhone 14,3,1240.49
+ORD0146,2023-06-14,Frederick Potter,Samsung Galaxy S23,5,1964.69
+ORD0147,2024-05-11,Denise Murray,Logitech MX Master 3 Mouse,2,845.84
+ORD0148,2024-02-22,Richard Gilbert,Apple iPhone 14,1,397.5
+ORD0149,2023-01-29,Derek Nguyen,Fitbit Charge 5,2,1866.53
+ORD0150,2023-11-03,Garrett Holmes,Bose QuietComfort Earbuds,4,67.97
+ORD0151,2023-11-09,Matthew Taylor,Apple iPhone 14,3,1901.42
+ORD0152,2023-01-07,Teresa Carter,Apple iPhone 14,3,756.01
+ORD0153,2023-05-10,Rebecca Myers,HP Envy Printer,2,1090.26
+ORD0154,2023-10-25,Carl Osborne,Anker PowerCore Portable Charger,3,1380.5
+ORD0155,2023-11-07,Sandra Berg PhD,HP Envy Printer,1,1591.89
+ORD0156,2023-10-12,Nancy Johnson,Ring Video Doorbell Pro,4,1169.68
+ORD0157,2023-01-11,Elijah Klein,Asus ROG Strix Gaming Laptop,4,241.15
+ORD0158,2023-12-07,Alex Stevenson,Ring Video Doorbell Pro,4,1496.31
+ORD0159,2023-04-14,James Moreno,Ring Video Doorbell Pro,5,1761.46
+ORD0160,2023-01-07,Karen Kelly,Apple iPhone 14,4,1135.43
+ORD0161,2024-04-24,Jerry Hernandez,Ring Video Doorbell Pro,3,1590.73
+ORD0162,2024-03-15,Peggy Davis,Fitbit Charge 5,5,988.4
+ORD0163,2023-12-11,Jennifer Hampton,Fitbit Charge 5,2,1752.83
+ORD0164,2023-09-01,Kayla Williams,Anker PowerCore Portable Charger,3,1089.47
+ORD0165,2023-01-30,Diane Watson,Logitech MX Master 3 Mouse,4,1161.49
+ORD0166,2023-03-18,Kyle Larsen,HP Envy Printer,3,1199.68
+ORD0167,2024-01-05,Shelly Mcclure,HP Envy Printer,3,1562.5
+ORD0168,2023-05-25,Christopher Smith,Anker PowerCore Portable Charger,3,123.74
+ORD0169,2024-02-26,Michael Myers,HP Envy Printer,1,464.6
+ORD0170,2023-07-17,Gloria Mann,Anker PowerCore Portable Charger,4,898.91
+ORD0171,2023-01-24,Madeline Williams,HP Envy Printer,5,1520.63
+ORD0172,2024-03-24,Garrett Moore,Anker PowerCore Portable Charger,5,894.91
+ORD0173,2024-04-12,Rebecca Murphy,HP Envy Printer,5,1045.33
+ORD0174,2023-02-28,Joseph Wilson,Logitech MX Master 3 Mouse,4,1622.05
+ORD0175,2023-10-26,Andrea Love,Sony WH-1000XM4 Headphones,5,415.39
+ORD0176,2023-01-27,Kyle Garcia,Samsung Galaxy S23,5,1649.91
+ORD0177,2024-06-05,Corey Williams,Apple iPhone 14,3,364.99
+ORD0178,2024-03-09,Derrick Ramirez,Sony WH-1000XM4 Headphones,1,37.14
+ORD0179,2023-08-07,Joseph Randolph,Bose QuietComfort Earbuds,3,1317.38
+ORD0180,2024-06-20,Michael French,Fitbit Charge 5,4,1412.31
+ORD0181,2023-02-27,Justin Ward,HP Envy Printer,5,808.67
+ORD0182,2024-03-03,Michael Knight,HP Envy Printer,3,781.64
+ORD0183,2023-09-28,Marvin Hodge,Samsung Galaxy S23,2,765.62
+ORD0184,2024-02-22,Carol Howell,Asus ROG Strix Gaming Laptop,5,885.03
+ORD0185,2024-03-06,Michelle Freeman MD,Sony WH-1000XM4 Headphones,2,1884.01
+ORD0186,2024-03-28,Amanda Garcia,Sony WH-1000XM4 Headphones,1,424.24
+ORD0187,2023-07-28,Timothy Rogers,Bose QuietComfort Earbuds,1,1903.55
+ORD0188,2023-12-17,Brianna Conway,Sony WH-1000XM4 Headphones,2,1864.95
+ORD0189,2024-05-17,Donald Holland,Ring Video Doorbell Pro,3,25.31
+ORD0190,2024-04-29,Seth Spencer,Apple iPhone 14,3,1971.54
+ORD0191,2023-06-12,Kayla Lee,Anker PowerCore Portable Charger,2,1861.11
+ORD0192,2024-03-23,Elizabeth Little,Fitbit Charge 5,2,1761.95
+ORD0193,2024-01-04,Emily Bowers,Ring Video Doorbell Pro,1,1867.51
+ORD0194,2024-02-25,Robin Michael,Bose QuietComfort Earbuds,3,251.68
+ORD0195,2024-06-03,Jason Bell,Apple iPhone 14,4,1493.95
+ORD0196,2024-04-12,Christina Phillips,Ring Video Doorbell Pro,2,75.71
+ORD0197,2023-01-22,Dustin Morris,Samsung Galaxy S23,3,197.7
+ORD0198,2023-01-27,Robert Russo,Anker PowerCore Portable Charger,2,1846.68
+ORD0199,2023-11-13,Leah Fuller,Sony WH-1000XM4 Headphones,1,822.75
+ORD0200,2024-02-07,Anna Sanchez,Asus ROG Strix Gaming Laptop,1,980.8
+ORD0201,2023-07-04,Lisa Wilson,Anker PowerCore Portable Charger,2,803.1
+ORD0202,2023-11-03,Melinda Edwards,Anker PowerCore Portable Charger,2,981.02
+ORD0203,2024-05-27,Johnathan Choi,Bose QuietComfort Earbuds,4,1088.85
+ORD0204,2023-04-05,Kerri Miller,Samsung Galaxy S23,4,85.88
+ORD0205,2023-02-08,Tiffany Martinez,Logitech MX Master 3 Mouse,4,1069.56
+ORD0206,2023-11-03,Riley Gonzalez,Bose QuietComfort Earbuds,5,1177.93
+ORD0207,2023-06-01,Felicia Anderson,Asus ROG Strix Gaming Laptop,4,954.07
+ORD0208,2023-05-27,Robert Baker Jr.,Ring Video Doorbell Pro,4,1671.34
+ORD0209,2023-04-12,Alexander Gray,Sony WH-1000XM4 Headphones,5,792.97
+ORD0210,2023-08-10,Jacqueline Watson,Asus ROG Strix Gaming Laptop,5,935.61
+ORD0211,2023-12-24,Deborah Thomas,Sony WH-1000XM4 Headphones,3,490.32
+ORD0212,2023-03-19,Andrew Keith,Asus ROG Strix Gaming Laptop,3,1610.74
+ORD0213,2024-04-29,Alexandra Ballard,HP Envy Printer,5,619.11
+ORD0214,2024-06-14,Raymond Duncan,Samsung Galaxy S23,2,921.87
+ORD0215,2023-06-23,Tara Williams DDS,Bose QuietComfort Earbuds,5,749.58
+ORD0216,2023-02-17,Joseph Wells,Sony WH-1000XM4 Headphones,3,675.11
+ORD0217,2023-04-10,Brandy Robbins,Asus ROG Strix Gaming Laptop,3,1186.7
+ORD0218,2023-06-23,Rebecca Moore,Samsung Galaxy S23,4,177.18
+ORD0219,2024-01-03,John Jones,Asus ROG Strix Gaming Laptop,1,890.29
+ORD0220,2023-04-27,Edgar Carlson,Fitbit Charge 5,3,822.24
+ORD0221,2023-10-30,Joshua Weiss,Ring Video Doorbell Pro,3,1383.25
+ORD0222,2023-12-22,James Rodriguez,Apple iPhone 14,5,1530.6
+ORD0223,2023-03-09,Tiffany Hartman,Fitbit Charge 5,5,1076.2
+ORD0224,2023-03-26,Garrett Thomas,Ring Video Doorbell Pro,3,1183.7
+ORD0225,2023-06-22,Yvonne Mason,Asus ROG Strix Gaming Laptop,5,698.68
+ORD0226,2024-03-15,Angela Raymond,Apple iPhone 14,5,1827.33
+ORD0227,2023-08-06,Rebecca English,Bose QuietComfort Earbuds,2,1159.13
+ORD0228,2024-06-17,Melanie Hughes,HP Envy Printer,2,495.45
+ORD0229,2023-06-15,Mary Hines,Fitbit Charge 5,1,1434.08
+ORD0230,2023-06-29,Lisa Haas,Sony WH-1000XM4 Headphones,4,996.41
+ORD0231,2023-09-08,Carl Lam,Apple iPhone 14,2,1215.52
+ORD0232,2023-12-20,Timothy Boyle,Apple iPhone 14,5,22.65
+ORD0233,2024-05-17,Caleb Cox,Apple iPhone 14,5,927.46
+ORD0234,2023-05-15,Debra Hawkins,Ring Video Doorbell Pro,2,1852.59
+ORD0235,2023-01-15,James Ross,Asus ROG Strix Gaming Laptop,3,175.01
+ORD0236,2024-02-19,Vickie Christian,Samsung Galaxy S23,2,1951.88
+ORD0237,2023-05-26,David Koch,Fitbit Charge 5,5,1036.0
+ORD0238,2023-11-06,Adrienne Castillo,HP Envy Printer,4,1198.35
+ORD0239,2023-03-06,Matthew Davidson,Apple iPhone 14,4,1747.78
+ORD0240,2023-10-31,Cindy Stephens,Samsung Galaxy S23,5,411.66
+ORD0241,2023-03-28,Angela Harrison,Apple iPhone 14,1,1202.98
+ORD0242,2023-03-06,Thomas Smith,Logitech MX Master 3 Mouse,2,1939.19
+ORD0243,2023-08-07,Amber Norris DDS,Logitech MX Master 3 Mouse,3,1625.43
+ORD0244,2023-08-26,Andrew Jenkins,HP Envy Printer,5,1843.91
+ORD0245,2023-12-15,John Conley,Samsung Galaxy S23,4,917.98
+ORD0246,2023-06-02,Crystal Nixon,Ring Video Doorbell Pro,4,578.95
+ORD0247,2024-04-02,Kathleen Salazar,Asus ROG Strix Gaming Laptop,1,646.48
+ORD0248,2023-09-11,Cheryl Bishop,Sony WH-1000XM4 Headphones,3,465.4
+ORD0249,2024-01-11,Amanda Smith,HP Envy Printer,5,1541.25
+ORD0250,2023-06-24,Jason Matthews,Fitbit Charge 5,2,781.22
+ORD0251,2023-08-20,James Clark,HP Envy Printer,1,1548.39
+ORD0252,2023-02-26,Daniel Schmitt,Samsung Galaxy S23,3,1534.97
+ORD0253,2024-06-13,Julie Koch,HP Envy Printer,5,1339.58
+ORD0254,2023-08-28,Angela Anderson,HP Envy Printer,1,1179.48
+ORD0255,2023-08-17,Wesley Martin,Bose QuietComfort Earbuds,2,136.91
+ORD0256,2023-04-16,Rebecca Harris,Ring Video Doorbell Pro,3,1673.38
+ORD0257,2023-07-31,Haley Melton,Sony WH-1000XM4 Headphones,3,531.81
+ORD0258,2023-11-14,Victor King,Ring Video Doorbell Pro,5,1914.68
+ORD0259,2023-11-08,James Rice,Ring Video Doorbell Pro,2,284.39
+ORD0260,2023-08-16,Holly Rogers,Fitbit Charge 5,2,188.55
+ORD0261,2024-05-04,Jenny Crosby,Fitbit Charge 5,3,1372.42
+ORD0262,2023-07-21,Alison Stevens,Apple iPhone 14,2,258.92
+ORD0263,2024-06-07,James Woods,Samsung Galaxy S23,5,421.16
+ORD0264,2023-07-16,John Contreras,HP Envy Printer,4,334.22
+ORD0265,2023-04-12,Rachel Wright,Apple iPhone 14,5,924.75
+ORD0266,2023-07-23,Rebecca Rush,Logitech MX Master 3 Mouse,5,1663.74
+ORD0267,2024-01-19,Blake Pierce,Ring Video Doorbell Pro,2,716.98
+ORD0268,2024-02-24,Keith Nichols,Anker PowerCore Portable Charger,1,1244.33
+ORD0269,2024-04-09,Cynthia Allen,Logitech MX Master 3 Mouse,1,757.1
+ORD0270,2023-10-03,Matthew Shaw,Sony WH-1000XM4 Headphones,4,1742.69
+ORD0271,2024-02-15,Angela Wright,Apple iPhone 14,4,818.23
+ORD0272,2023-09-12,Gregory Turner,Asus ROG Strix Gaming Laptop,4,366.29
+ORD0273,2024-02-17,Steven King,Bose QuietComfort Earbuds,1,727.17
+ORD0274,2024-04-28,James Fry,Bose QuietComfort Earbuds,5,1370.05
+ORD0275,2024-03-25,Mary Johnson,Bose QuietComfort Earbuds,2,1873.16
+ORD0276,2023-02-07,Dr. Edwin Ford,Sony WH-1000XM4 Headphones,4,504.82
+ORD0277,2023-02-21,Teresa Lamb,Fitbit Charge 5,4,1858.82
+ORD0278,2023-06-08,Victor Hicks,Ring Video Doorbell Pro,3,138.52
+ORD0279,2023-06-24,Mary Roberts,HP Envy Printer,2,1357.07
+ORD0280,2023-07-21,Danielle Haley,Bose QuietComfort Earbuds,5,340.22
+ORD0281,2023-02-23,Leah Ruiz,Asus ROG Strix Gaming Laptop,3,1528.8
+ORD0282,2023-12-23,Nicholas Medina PhD,Bose QuietComfort Earbuds,2,216.82
+ORD0283,2023-08-02,Jessica Hubbard,Sony WH-1000XM4 Headphones,5,1821.76
+ORD0284,2023-10-08,Melissa Clark,HP Envy Printer,4,1622.94
+ORD0285,2023-06-14,Anthony Johnson,Logitech MX Master 3 Mouse,1,1923.4
+ORD0286,2023-02-20,Travis Edwards,Anker PowerCore Portable Charger,1,1772.75
+ORD0287,2024-05-10,Benjamin Thomas,Ring Video Doorbell Pro,3,1386.58
+ORD0288,2024-03-11,Denise Johnson,Asus ROG Strix Gaming Laptop,4,1727.76
+ORD0289,2023-03-07,Karen Mason,Sony WH-1000XM4 Headphones,4,1181.16
+ORD0290,2023-07-12,Deborah Hughes,Ring Video Doorbell Pro,5,792.8
+ORD0291,2023-05-22,Cynthia Lopez,Bose QuietComfort Earbuds,2,1126.51
+ORD0292,2023-11-23,Brandy Watson,Bose QuietComfort Earbuds,1,1871.71
+ORD0293,2023-01-25,Jimmy Wilson,Samsung Galaxy S23,2,649.81
+ORD0294,2023-07-22,James Kelly,Samsung Galaxy S23,3,757.83
+ORD0295,2024-03-13,Heidi Kelly,HP Envy Printer,3,1833.27
+ORD0296,2023-05-21,Daniel Phillips,Ring Video Doorbell Pro,5,1875.88
+ORD0297,2024-04-11,Shelly Hamilton,Apple iPhone 14,3,1459.23
+ORD0298,2024-04-21,Patrick Marshall,Apple iPhone 14,3,1379.95
+ORD0299,2023-12-09,Christopher Murray,HP Envy Printer,1,1249.93
+ORD0300,2023-10-31,Stephen Allen,Sony WH-1000XM4 Headphones,3,1743.3
+ORD0301,2023-09-02,Ann Bradford,HP Envy Printer,4,600.69
+ORD0302,2023-10-12,Erica Novak,Asus ROG Strix Gaming Laptop,1,1724.91
+ORD0303,2024-01-26,Megan Lopez,Fitbit Charge 5,3,1808.96
+ORD0304,2024-01-08,Tiffany Williamson,Logitech MX Master 3 Mouse,1,1432.92
+ORD0305,2024-03-01,Tabitha Jones,Anker PowerCore Portable Charger,2,1710.13
+ORD0306,2023-07-31,Jeremy Vasquez,Bose QuietComfort Earbuds,2,899.21
+ORD0307,2023-01-22,Aaron King,Bose QuietComfort Earbuds,1,840.18
+ORD0308,2023-02-12,Cynthia Haney,Logitech MX Master 3 Mouse,4,1038.49
+ORD0309,2023-07-28,Joseph Ortega,Sony WH-1000XM4 Headphones,3,893.01
+ORD0310,2024-01-02,Hailey Fischer,Anker PowerCore Portable Charger,5,699.03
+ORD0311,2023-10-03,Jeffrey Fox,Asus ROG Strix Gaming Laptop,2,203.47
+ORD0312,2023-07-27,Jeffery Moore,Sony WH-1000XM4 Headphones,3,569.3
+ORD0313,2023-09-10,Sherry Delacruz,Ring Video Doorbell Pro,1,434.95
+ORD0314,2023-01-24,Taylor Montgomery,Logitech MX Master 3 Mouse,5,37.06
+ORD0315,2023-01-04,Angela Thompson,Anker PowerCore Portable Charger,2,240.42
+ORD0316,2023-01-15,Tony Ortiz,Sony WH-1000XM4 Headphones,5,1894.42
+ORD0317,2023-07-05,Christopher Sims,Fitbit Charge 5,4,1026.31
+ORD0318,2024-01-14,Jeremy Evans,Logitech MX Master 3 Mouse,5,887.36
+ORD0319,2024-04-26,Charles Mitchell,Fitbit Charge 5,1,1088.6
+ORD0320,2023-11-26,Richard Vega,Samsung Galaxy S23,2,642.06
+ORD0321,2023-06-02,Anthony Wright,Anker PowerCore Portable Charger,3,1449.95
+ORD0322,2023-01-02,Miss Veronica Anderson PhD,HP Envy Printer,1,1060.98
+ORD0323,2023-12-11,Stephanie Schwartz,Sony WH-1000XM4 Headphones,2,1198.15
+ORD0324,2023-07-14,Kristin Wagner,Samsung Galaxy S23,1,518.66
+ORD0325,2024-04-06,Kimberly Parks,HP Envy Printer,5,1536.99
+ORD0326,2024-03-01,Dillon Owens,Fitbit Charge 5,1,1989.14
+ORD0327,2023-02-18,Brian Valentine,Asus ROG Strix Gaming Laptop,3,1861.87
+ORD0328,2023-07-09,Melissa Mccarty,Asus ROG Strix Gaming Laptop,4,1985.63
+ORD0329,2023-01-03,Phillip Rosario,Bose QuietComfort Earbuds,5,491.03
+ORD0330,2023-08-05,Christopher Fisher,Asus ROG Strix Gaming Laptop,2,330.57
+ORD0331,2024-02-12,Erika Yang,Bose QuietComfort Earbuds,2,957.75
+ORD0332,2023-02-26,Andrew Perez,Apple iPhone 14,1,1052.76
+ORD0333,2023-09-03,William Bennett,Ring Video Doorbell Pro,1,1747.35
+ORD0334,2024-03-21,David Curtis,Bose QuietComfort Earbuds,2,216.24
+ORD0335,2024-04-06,Brian Jimenez,Samsung Galaxy S23,3,401.84
+ORD0336,2023-10-19,Karen Spears,Apple iPhone 14,2,1000.02
+ORD0337,2023-06-29,Carrie Williams,HP Envy Printer,2,1296.27
+ORD0338,2023-11-15,Cynthia Peterson,Logitech MX Master 3 Mouse,3,993.05
+ORD0339,2024-05-24,Benjamin Figueroa,Fitbit Charge 5,3,1609.13
+ORD0340,2024-04-15,Samantha Davis,Logitech MX Master 3 Mouse,1,1437.76
+ORD0341,2024-06-08,Brenda Owen,HP Envy Printer,2,1427.43
+ORD0342,2023-04-22,Jasmin Moore,Fitbit Charge 5,5,1566.34
+ORD0343,2023-11-18,Michelle Porter,Bose QuietComfort Earbuds,4,502.64
+ORD0344,2024-06-21,Dylan Hooper,Anker PowerCore Portable Charger,3,1567.96
+ORD0345,2023-08-30,Joseph Gonzalez,Samsung Galaxy S23,2,1994.72
+ORD0346,2024-01-20,David Richard,Anker PowerCore Portable Charger,5,1968.6
+ORD0347,2023-01-23,Heather Carpenter,HP Envy Printer,3,410.07
+ORD0348,2023-05-12,Peter Cummings,Sony WH-1000XM4 Headphones,3,819.22
+ORD0349,2023-04-12,Tony Castro,Bose QuietComfort Earbuds,3,1571.66
+ORD0350,2024-01-04,Tyrone Clark,Bose QuietComfort Earbuds,3,956.01
+ORD0351,2023-06-12,Wesley Zamora,Sony WH-1000XM4 Headphones,4,760.25
+ORD0352,2023-11-08,Adrienne Torres,Asus ROG Strix Gaming Laptop,5,1545.73
+ORD0353,2024-02-28,Kevin Marquez,Sony WH-1000XM4 Headphones,1,535.41
+ORD0354,2023-08-28,Devin Lopez,Ring Video Doorbell Pro,5,1480.85
+ORD0355,2023-07-22,John Alvarez,Logitech MX Master 3 Mouse,4,421.27
+ORD0356,2023-07-12,Angela Mcclain,Fitbit Charge 5,3,1531.15
+ORD0357,2024-06-14,Audrey Oneal,Anker PowerCore Portable Charger,4,1895.05
+ORD0358,2023-04-18,Tiffany Walter,Bose QuietComfort Earbuds,1,236.72
+ORD0359,2023-04-29,Anna Tucker,Asus ROG Strix Gaming Laptop,2,888.58
+ORD0360,2023-12-28,Jonathan Green,Fitbit Charge 5,3,439.35
+ORD0361,2023-11-27,David Wright,Sony WH-1000XM4 Headphones,1,982.36
+ORD0362,2023-10-12,Anthony Stevenson,Sony WH-1000XM4 Headphones,3,757.16
+ORD0363,2023-03-08,Eric Perez,Sony WH-1000XM4 Headphones,4,1269.15
+ORD0364,2023-09-24,Nathaniel Cooper,Fitbit Charge 5,3,1358.64
+ORD0365,2023-11-19,Jamie Lynch,Logitech MX Master 3 Mouse,5,1058.69
+ORD0366,2024-03-03,Jane Jenkins,Fitbit Charge 5,4,353.72
+ORD0367,2024-01-24,Dale Johnson,Sony WH-1000XM4 Headphones,3,929.05
+ORD0368,2023-02-17,Bryan Scott,Logitech MX Master 3 Mouse,4,383.61
+ORD0369,2023-01-16,Katrina Davis DVM,HP Envy Printer,3,1906.15
+ORD0370,2024-01-01,Michelle Diaz,Samsung Galaxy S23,2,337.43
+ORD0371,2024-05-18,Amber Hampton,Logitech MX Master 3 Mouse,5,467.37
+ORD0372,2024-01-27,Michael Barrett,Sony WH-1000XM4 Headphones,3,1720.31
+ORD0373,2023-01-30,Haley Clark,Apple iPhone 14,2,749.99
+ORD0374,2023-07-14,Andrew Walker,Samsung Galaxy S23,2,345.31
+ORD0375,2024-05-25,Nicole Smith,Apple iPhone 14,3,1689.16
+ORD0376,2023-10-28,Amy Jenkins,Asus ROG Strix Gaming Laptop,2,1895.02
+ORD0377,2023-07-09,Kelly Cantrell,Fitbit Charge 5,2,234.41
+ORD0378,2023-08-05,Tanner Mcbride,HP Envy Printer,3,1561.1
+ORD0379,2023-06-22,Cory Murphy,Sony WH-1000XM4 Headphones,2,923.93
+ORD0380,2023-10-02,Megan Harris,Bose QuietComfort Earbuds,1,943.44
+ORD0381,2023-01-26,Laurie Cantrell,Sony WH-1000XM4 Headphones,4,1604.57
+ORD0382,2023-12-17,Mrs. Donna Kline,Fitbit Charge 5,3,1805.06
+ORD0383,2023-04-22,Catherine Moody,Sony WH-1000XM4 Headphones,1,1283.28
+ORD0384,2023-12-08,Mark Dixon,Asus ROG Strix Gaming Laptop,2,1560.49
+ORD0385,2023-10-28,John Dorsey,Ring Video Doorbell Pro,2,1867.41
+ORD0386,2023-05-03,Xavier Lee,Sony WH-1000XM4 Headphones,2,186.87
+ORD0387,2024-04-25,Kathryn Little,Anker PowerCore Portable Charger,1,528.59
+ORD0388,2023-01-24,Joseph Jones,Sony WH-1000XM4 Headphones,2,361.31
+ORD0389,2023-09-27,William Cobb,Asus ROG Strix Gaming Laptop,2,391.99
+ORD0390,2023-08-17,Kimberly Lawrence,Asus ROG Strix Gaming Laptop,1,964.3
+ORD0391,2024-03-28,Donna Garner,HP Envy Printer,2,1667.87
+ORD0392,2023-01-16,Lance Reed,HP Envy Printer,1,1143.55
+ORD0393,2023-05-06,Anthony David,Bose QuietComfort Earbuds,4,1841.21
+ORD0394,2024-03-24,Jacqueline Smith,Asus ROG Strix Gaming Laptop,1,227.51
+ORD0395,2024-02-16,Timothy Hood,Ring Video Doorbell Pro,1,93.85
+ORD0396,2023-11-24,Cheryl Gomez,Bose QuietComfort Earbuds,4,770.19
+ORD0397,2023-12-15,Brittany Thomas,Asus ROG Strix Gaming Laptop,4,241.61
+ORD0398,2023-05-24,Eric Pena,Ring Video Doorbell Pro,5,761.41
+ORD0399,2023-03-19,Mariah Davis,Sony WH-1000XM4 Headphones,4,1009.69
+ORD0400,2024-06-24,Amber Terrell,Sony WH-1000XM4 Headphones,3,945.41
+ORD0401,2023-10-06,Ashley Case,Fitbit Charge 5,4,1793.16
+ORD0402,2024-01-28,Desiree Richard,Fitbit Charge 5,2,486.36
+ORD0403,2023-02-05,Jaime Everett,Samsung Galaxy S23,5,1515.1
+ORD0404,2023-03-04,Thomas Fox,Asus ROG Strix Gaming Laptop,5,1557.72
+ORD0405,2023-03-13,Bryan Black,Asus ROG Strix Gaming Laptop,2,1740.33
+ORD0406,2023-01-13,Amy Ward,Anker PowerCore Portable Charger,1,952.17
+ORD0407,2023-11-13,Pamela Norris,Fitbit Charge 5,2,811.21
+ORD0408,2024-06-01,Angela Davidson,Apple iPhone 14,5,1879.73
+ORD0409,2023-12-16,Jeremiah Ross,Apple iPhone 14,4,177.23
+ORD0410,2023-05-21,Jennifer Thomas,Samsung Galaxy S23,2,1845.23
+ORD0411,2023-04-28,Stephanie Weaver,Samsung Galaxy S23,4,895.34
+ORD0412,2023-06-18,Jeffrey Douglas,Logitech MX Master 3 Mouse,3,1942.81
+ORD0413,2024-03-04,Jeremiah Orr,Ring Video Doorbell Pro,1,879.97
+ORD0414,2023-07-29,Crystal Prince,HP Envy Printer,3,401.21
+ORD0415,2023-07-31,Madeline Ortega,Logitech MX Master 3 Mouse,5,1951.92
+ORD0416,2023-04-06,Brandy Garcia,Sony WH-1000XM4 Headphones,4,343.37
+ORD0417,2023-01-09,Sheila Brown,Fitbit Charge 5,2,1473.94
+ORD0418,2023-10-06,Scott Williams,Bose QuietComfort Earbuds,1,1432.27
+ORD0419,2023-07-05,Tracey Browning,Ring Video Doorbell Pro,4,1261.01
+ORD0420,2023-07-22,Lynn Robles,Asus ROG Strix Gaming Laptop,4,1199.62
+ORD0421,2023-04-24,Joseph Cunningham,Bose QuietComfort Earbuds,1,1833.86
+ORD0422,2023-06-30,Melvin Meyer,HP Envy Printer,1,1390.74
+ORD0423,2024-04-05,Andrew Whitaker,Asus ROG Strix Gaming Laptop,5,778.93
+ORD0424,2023-11-30,Teresa Smith,Samsung Galaxy S23,4,921.51
+ORD0425,2023-05-23,Andrea Smith,Anker PowerCore Portable Charger,5,1669.77
+ORD0426,2023-11-10,Denise Lee,Apple iPhone 14,4,641.53
+ORD0427,2023-01-03,Christopher Woodard,Sony WH-1000XM4 Headphones,4,629.21
+ORD0428,2023-01-22,Nicole Burns,Bose QuietComfort Earbuds,5,417.92
+ORD0429,2024-03-02,Christine Brown,Sony WH-1000XM4 Headphones,2,905.56
+ORD0430,2024-04-14,Latoya Andrews,Apple iPhone 14,4,1394.6
+ORD0431,2023-12-09,Sandra Robertson,Logitech MX Master 3 Mouse,4,890.98
+ORD0432,2023-10-09,Lisa Johnson,Apple iPhone 14,2,1654.23
+ORD0433,2024-01-13,Elizabeth Rivera,Fitbit Charge 5,1,1611.76
+ORD0434,2024-02-18,Mark Smith,Samsung Galaxy S23,2,851.05
+ORD0435,2023-10-31,Lisa Meyer,HP Envy Printer,5,1779.08
+ORD0436,2023-11-15,Jessica Brown,Anker PowerCore Portable Charger,2,677.52
+ORD0437,2023-05-10,Meghan Ellis,Samsung Galaxy S23,5,592.04
+ORD0438,2024-03-18,David Willis,Ring Video Doorbell Pro,4,121.42
+ORD0439,2023-01-12,Sean Mccoy,Sony WH-1000XM4 Headphones,5,413.35
+ORD0440,2023-06-08,Matthew Warner,Fitbit Charge 5,3,1301.39
+ORD0441,2023-02-03,Kelly Gardner,Fitbit Charge 5,1,626.41
+ORD0442,2023-04-06,Patty Harvey,Asus ROG Strix Gaming Laptop,2,51.18
+ORD0443,2024-03-13,Adam Johnson,Asus ROG Strix Gaming Laptop,3,808.0
+ORD0444,2023-05-23,Susan Nguyen,Apple iPhone 14,4,1121.13
+ORD0445,2023-06-02,Donna Burton,Bose QuietComfort Earbuds,4,1566.02
+ORD0446,2023-08-30,Charles Wright,HP Envy Printer,2,1479.06
+ORD0447,2023-11-10,Jessica Ward,Asus ROG Strix Gaming Laptop,4,1777.67
+ORD0448,2023-11-18,Matthew Stevens,Logitech MX Master 3 Mouse,2,1957.29
+ORD0449,2023-07-25,Brian Cunningham,Anker PowerCore Portable Charger,5,875.72
+ORD0450,2024-01-02,Alexander Barnes,Fitbit Charge 5,2,1955.62
+ORD0451,2023-07-13,Joshua Terry,Apple iPhone 14,1,303.73
+ORD0452,2024-02-11,Kathleen Benson,Logitech MX Master 3 Mouse,1,565.39
+ORD0453,2023-06-13,Samantha Stone,Samsung Galaxy S23,2,1195.83
+ORD0454,2023-12-30,Stephanie Anderson,Sony WH-1000XM4 Headphones,4,1667.97
+ORD0455,2023-09-20,Rachael Adams,Asus ROG Strix Gaming Laptop,3,252.14
+ORD0456,2024-03-29,Brian Harvey,Sony WH-1000XM4 Headphones,5,1709.06
+ORD0457,2023-08-19,Marvin Ferguson,Sony WH-1000XM4 Headphones,5,1131.71
+ORD0458,2023-11-26,Aaron Gutierrez,Asus ROG Strix Gaming Laptop,4,1401.75
+ORD0459,2024-06-17,David Curtis,Fitbit Charge 5,4,1058.97
+ORD0460,2024-06-11,Jo Obrien,Fitbit Charge 5,1,1533.28
+ORD0461,2024-04-23,Diana Peters,Sony WH-1000XM4 Headphones,5,615.77
+ORD0462,2023-10-28,Sophia Brown,Bose QuietComfort Earbuds,1,305.71
+ORD0463,2023-09-10,Jared Drake,Asus ROG Strix Gaming Laptop,1,1592.35
+ORD0464,2023-08-19,Tammy Calhoun,Sony WH-1000XM4 Headphones,3,791.7
+ORD0465,2024-04-20,Ashley Robinson,Sony WH-1000XM4 Headphones,4,83.03
+ORD0466,2023-09-02,Gail Hammond,HP Envy Printer,3,176.01
+ORD0467,2023-03-30,Dominique King,HP Envy Printer,5,1168.19
+ORD0468,2023-04-28,Erin Barton,Sony WH-1000XM4 Headphones,5,1898.67
+ORD0469,2023-06-29,Gary Pace,Fitbit Charge 5,3,823.28
+ORD0470,2024-01-11,Deborah Levine,HP Envy Printer,3,92.66
+ORD0471,2024-04-29,Brian Mills,Anker PowerCore Portable Charger,3,766.13
+ORD0472,2023-07-13,Samantha Benitez,HP Envy Printer,5,590.77
+ORD0473,2023-12-31,Brian Potts,Logitech MX Master 3 Mouse,3,1988.15
+ORD0474,2023-07-24,Michelle Mitchell,Samsung Galaxy S23,5,812.6
+ORD0475,2023-02-03,Shelly Summers,Samsung Galaxy S23,5,722.31
+ORD0476,2023-11-28,Christopher Kirk,Apple iPhone 14,1,1248.56
+ORD0477,2023-09-16,David Ruiz,Samsung Galaxy S23,2,484.23
+ORD0478,2023-11-12,Jeffrey Campbell,Asus ROG Strix Gaming Laptop,1,1229.12
+ORD0479,2023-06-06,Willie Rubio,Asus ROG Strix Gaming Laptop,2,947.96
+ORD0480,2024-01-18,Denise Ellis,Fitbit Charge 5,4,432.46
+ORD0481,2023-09-20,Kristen Brown,Fitbit Charge 5,5,649.84
+ORD0482,2023-03-16,Grace Vargas,Ring Video Doorbell Pro,5,972.0
+ORD0483,2023-04-29,Sharon Gates,Fitbit Charge 5,4,853.23
+ORD0484,2023-11-16,Nicholas Webb,Asus ROG Strix Gaming Laptop,5,935.77
+ORD0485,2023-10-20,April Berg,HP Envy Printer,5,820.1
+ORD0486,2023-03-14,Antonio Osborne,Asus ROG Strix Gaming Laptop,5,1337.75
+ORD0487,2024-01-16,Elaine Lawrence,Bose QuietComfort Earbuds,3,993.83
+ORD0488,2024-06-08,Carol Humphrey,Sony WH-1000XM4 Headphones,1,1104.28
+ORD0489,2023-01-26,Molly Davis,Logitech MX Master 3 Mouse,3,444.57
+ORD0490,2023-11-16,Travis Bright,Sony WH-1000XM4 Headphones,5,1110.45
+ORD0491,2023-06-26,Keith Watts,Asus ROG Strix Gaming Laptop,4,1689.88
+ORD0492,2023-04-06,Jeffrey Brooks,Apple iPhone 14,4,1831.92
+ORD0493,2024-02-11,Heather Baird,Apple iPhone 14,2,1457.28
+ORD0494,2023-02-26,Adam Harris,Apple iPhone 14,4,350.96
+ORD0495,2024-04-25,Lynn Madden,Samsung Galaxy S23,2,468.67
+ORD0496,2023-11-05,Sandra Martinez,Sony WH-1000XM4 Headphones,4,205.59
+ORD0497,2023-11-24,Lawrence Salazar,Samsung Galaxy S23,4,755.69
+ORD0498,2023-02-28,Christopher Harrison,Sony WH-1000XM4 Headphones,4,1201.73
+ORD0499,2023-07-10,Stephen Carlson,HP Envy Printer,3,1102.43
+ORD0500,2024-04-27,Tyler Knox,Anker PowerCore Portable Charger,5,1072.08
