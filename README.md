@@ -1,3 +1,17 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: PEDDAPUDI NAVEENKUMAR
+
+INTERN ID: CT08DH1065
+
+DOMAIN: Data Analysis
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+
+
 # 📊 Big Data Analysis - Task 1
 
 This project is part of an internship assignment focused on analyzing sales order data using **Apache PySpark** for distributed data processing and **Matplotlib** for visual representation.
